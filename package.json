@@ -1,0 +1,16 @@
+{
+  "name": "subscription-newsletter",
+  "version": "1.0.0",
+  "description": "Simple Subscription Newsletter for my BlogSite",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro index"
+  },
+  "author": "Akshay Kadam <akshaykadam0904@gmail.com> (https://deadcoder0904.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "email-via-gmail": "^1.0.5",
+    "google-spreadsheet-to-json": "^0.3.0",
+    "micro": "^7.3.2"
+  }
+}
