@@ -9,8 +9,8 @@
   "author": "Akshay Kadam <akshaykadam0904@gmail.com> (https://deadcoder0904.github.io/)",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.16.1",
     "email-via-gmail": "^1.0.5",
-    "google-spreadsheet-to-json": "^0.3.0",
     "micro": "^7.3.2"
   }
 }
